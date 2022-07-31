@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ashrafulashik13" target="blank"><img src="https://img.shields.io/twitter/follow/ashrafulashik13?logo=twitter&style=for-the-badge" alt="ashrafulashik13" /></a> </p>
 
-- 🔭 I’m currently working on **House-MarketPlace**
+- 🔭 I’m currently working on **REACT and JAVASCRIPT**
 
 - 🌱 I’m currently learning **React,MEREN Stack**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & javascript**
 
 - 📫 How to reach me **ashikashraful8@gmail.com**
 
