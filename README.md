@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ASHRAFULEJAB</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm ASHRAFUL ISLAM</h1>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulejab&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulejab" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **REACT and JAVASCRIPT**
 
-- 🌱 I’m currently learning **React,MEREN Stack**
+- 🌱 I’m currently learning **MEREN Stack**
 
-- 💬 Ask me about **React & javascript**
+- 💬 Ask me about **React & javascript,ES6**
 
 - 📫 How to reach me **ashikashraful8@gmail.com**
 
