@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ashraful-ashik-46b715194](http://www.linkedin.com/in/ashraful-islam-khan)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraful-ashik-46b715194" height="30" width="40" /></a>
-<a href="[https://fb.com/https://www.facebook.com/profile.php?id=100032408406839](https://www.facebook.com/people/Ashraful-Islam/100032408406839/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032408406839" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/ashraful-islam-khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraful-ashik-46b715194" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Ashraful-Islam/100032408406839/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032408406839" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=12dtb14ajyj1&utm_content=7b5h80k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=12dtb14ajyj1&utm_content=7b5h80k" height="30" width="40" /></a>
 </p>
 
