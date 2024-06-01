@@ -1,4 +1,4 @@
-<img src='/Black Elegant Minimalist Profile LinkedIn Banner.png' alt="banner"></img>
+<img src='/Black Minimal Business Personal Profile Linkedin Banner (1).png' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm ASHRAFUL ISLAM</h1>
 <p align="center">
